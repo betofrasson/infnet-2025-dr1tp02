@@ -1,3 +1,3 @@
-## infnet-2025-dr2tp01
+## infnet-2025-dr1tp02
 
 ### TP02 - Engenharia de Testes de Software
